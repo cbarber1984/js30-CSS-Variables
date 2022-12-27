@@ -1,5 +1,5 @@
 # JS30 Update CSS Variables #
-My finished project is deployed HERE
+My finished project is deployed [HERE](https://cbarber1984.github.io/js30-CSS-Variables/)
 
 ## Objective ##
 - Use vanilla JavaScript to create a page with control elements that dynamically alter display attributes
